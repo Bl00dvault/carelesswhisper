@@ -1,4 +1,4 @@
-# Aggressor Messenger/CARELESS WHISPER
+# CARELESSWHISPER
 
 ## TODO:
 - Create diagram of data movement
@@ -24,7 +24,7 @@ The end result is a MitM capability to intercept data at the target destination 
 
 
 ## Description
-Aggressor Messenger/CARELESSWHISPER is designed to intercept UDP data, parse data based on specific schema if necessary, and forward the traffic to the intended host. To handle UDP messages which can be sent in multiple frames, the queue system will store multiple messages in memory and forward them after conditions are met.
+CARELESSWHISPER is designed to intercept UDP data, parse data based on specific schema if necessary, and forward the traffic to the intended host. To handle UDP messages which can be sent in multiple frames, the queue system will store multiple messages in memory and forward them after conditions are met.
 
 Program will:
 - Find available interfaces on device

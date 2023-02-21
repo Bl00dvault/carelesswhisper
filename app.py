@@ -1,6 +1,6 @@
 #################################################################################
 # @note: Classification: Unclassified
-# @author: thomas.blauvelt@us.af.mil - Original Implemenation
+# @author: Bloodvault - Original Implemenation
 # @brief: CARELESSWHISPER is designed to listen, read, and send UDP messages
 #################################################################################
 # Imports
@@ -210,6 +210,6 @@ def main():
 
 
 if __name__ == '__main__':
-    print('Starting Aggressor Messenger')
+    print('Starting Careless Whisper')
     print('\n')
     main()
