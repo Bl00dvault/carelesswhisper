@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "addrs",
+        "DGRAM",
+        "inet",
+        "laddr",
+        "netifaces",
+        "psutil",
+        "recvfrom",
+        "sendto"
+    ]
+}
