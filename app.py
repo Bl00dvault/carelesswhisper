@@ -1,6 +1,6 @@
 #################################################################################
 # @note: Classification: Unclassified
-# @author: Bloodvault - Original Implemenation
+# @author: thomas.blauvelt@us.af.mil - Original Implemenation
 # @brief: CARELESSWHISPER is designed to listen, read, and send UDP messages
 #################################################################################
 # Imports
